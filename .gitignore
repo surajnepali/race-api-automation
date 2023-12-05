@@ -1,1 +1,5 @@
 node_modules
+cypress.env.json
+cypress/constants/adminEndpoints.js
+cypress/constants/superadminEndpoints.js
+cypress/constants/customerEndpoints.js
