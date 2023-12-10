@@ -4,3 +4,4 @@ cypress/constants/adminEndpoints.js
 cypress/constants/superadminEndpoints.js
 cypress/constants/customerEndpoints.js
 cypress/api/Customer/handleCustomer.data.js
+cypress/api/Admin/handleAdmin.data.js
