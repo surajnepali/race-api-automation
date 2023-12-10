@@ -4,4 +4,5 @@ export const customerErrorMessages = {
     invalidRange: "'s byte length must fall into (2, undefined) range.",
     invalidOTP: "otp's byte length must fall into (6, 6) range.",
     invalidPassword: "password's byte length must fall into (5, undefined) range.",
+    userNotFound: "User not found"
 }
