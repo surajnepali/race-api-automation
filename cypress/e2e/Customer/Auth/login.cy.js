@@ -1,7 +1,7 @@
-import { login, register, setOTPForRegistration } from "../../api/Customer/handleCustomer.api";
-import { registerData, setOTPPhoneNumber, loginCredentials } from "../../api/Customer/handleCustomer.data";
-import { customerErrorMessages } from "../../message/ErrorMessages/Customer/customerErrorMessages";
-import { customerSuccessMessages } from "../../message/SuccessMessages/CustomerSuccessMessages/customerSuccessMessages";
+import { login, register, setOTPForRegistration } from "../../../api/Customer/handleCustomer.api";
+import { registerData, setOTPPhoneNumber, loginCredentials } from "../../../api/Customer/handleCustomer.data";
+import { customerErrorMessages } from "../../../message/ErrorMessages/Customer/customerErrorMessages";
+import { customerSuccessMessages } from "../../../message/SuccessMessages/CustomerSuccessMessages/customerSuccessMessages";
 
 let registerPhoneNumber, registerOTP;
 

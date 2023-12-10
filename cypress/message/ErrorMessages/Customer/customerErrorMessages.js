@@ -6,3 +6,7 @@ export const customerErrorMessages = {
     invalidPassword: "password's byte length must fall into (5, undefined) range.",
     userNotFound: "User not found"
 }
+
+export const customerArchitectureErrorMessages = {
+    
+}

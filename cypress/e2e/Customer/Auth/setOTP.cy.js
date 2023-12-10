@@ -1,6 +1,6 @@
-import { setOTPForRegistration } from "../../api/Customer/handleCustomer.api";
-import { setOTPPhoneNumber } from "../../api/Customer/handleCustomer.data";
-import { customerErrorMessages } from "../../message/ErrorMessages/Customer/customerErrorMessages";
+import { setOTPForRegistration } from "../../../api/Customer/handleCustomer.api";
+import { setOTPPhoneNumber } from "../../../api/Customer/handleCustomer.data";
+import { customerErrorMessages } from "../../../message/ErrorMessages/Customer/customerErrorMessages";
 
 describe("Send OTP for Registration API Automation Testing", () => {
 
